@@ -11,7 +11,7 @@ def marks(*args):
     #printing average
     print('Average Mark=',avg)
     #checking pass or fail
-    if(avg>=50):
+    if avg>=50:
         print('Pass')
     else:
         print('Fail')
